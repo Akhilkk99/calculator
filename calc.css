@@ -1,0 +1,10 @@
+button{
+    transition: .5s ease-in-out;
+}
+button:hover{
+    transform: scale(1,1);
+}
+.d1{
+    width: 27%;
+    border-radius: 5%;
+}
